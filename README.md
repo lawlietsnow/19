@@ -1,5 +1,6 @@
 # Nhóm: 19 
 # Đề tài: [VietJack - Học tốt, Giải SGK, SBT, Soạn Văn](https://play.google.com/store/apps/details?id=com.jsmile.android.vietjack&hl=vi)
+VietJack - Học tốt, Giải SGK, SBT, Soạn Văn sẽ giúp các bạn rút ngắn thời gian chuẩn bị sách, thời gian tìm kiếm tài liệu, đề thi…
 ## Thành viên:
 - Lê Trung Kiên
 - Vũ Quang Huy
